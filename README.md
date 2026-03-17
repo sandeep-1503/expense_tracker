@@ -63,6 +63,4 @@ Amount: 300 | Category: Travel
 
 ---
 
-## ⭐ GitHub Repository
 
-If you like this project, feel free to star ⭐ the repository and contribute!
